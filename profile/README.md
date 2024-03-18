@@ -4,13 +4,11 @@ This page contains useful resources to get started with Machine Learning and Gen
 
 ## 🧮 Our Notebooks
 
-- **[Machine Learning / GenAI](https://github.com/turinglayer/notebooks)** 
+- **[Machine Learning & GenAI](https://github.com/turinglayer/notebooks)** 
+
+- **[Practical Deep Learning](https://github.com/dcarpintero/deep-learning-notebooks)**
 
 - **[Transformer101](https://github.com/dcarpintero/transformer101)**
-
-- **[Annotated Multilayer Perceptron](https://github.com/dcarpintero/deep-learning-notebooks)**
-
-- **[Building an Astronomy Classifier](https://github.com/dcarpintero/fastai-deeplearning/blob/main/course2024/lesson_02.astronomy.ipynb)**
 
 ## 👩‍💻 Our Favourite Stack
 
