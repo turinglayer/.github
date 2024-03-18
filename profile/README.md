@@ -1,8 +1,8 @@
 # 👋 Welcome to the [TuringLayer]() GitHub organization 👋
 
-This page contains useful resources to get started with Machine Learning and GenerativeAI.
+We build and experiment with Deep Learning, Transformers, and Generative AI.
 
-## 🧮 Our Notebooks
+## 🧮 Our Notebooks Collection
 
 - **[Machine Learning & GenAI](https://github.com/turinglayer/notebooks)** 
 
