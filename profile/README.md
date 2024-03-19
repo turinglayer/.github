@@ -1,14 +1,19 @@
 # 👋 Welcome to the [TuringLayer]() GitHub organization 👋
 
-We build and experiment with Deep Learning, Transformers, and Generative AI.
+Building and experimenting with Deep Learning, Transformers, and Generative AI.
 
 ## 🧮 Our Notebooks Collection
 
 - **[Machine Learning & GenAI](https://github.com/turinglayer/notebooks)** 
 
+Educational Notebooks w/ Scikit-Learn, GPT, Cohere, Embeddings, LangChain and Pydantic for: (i) Binary / Multiclass Classification; (ii) Clustering and Topic Modelling, and (iii) Transformers Attention Visualization.
+
 - **[Practical Deep Learning](https://github.com/dcarpintero/deep-learning-notebooks)**
 
+Learn how to build and deploy a Neural Network from scratch.
 - **[Transformer101](https://github.com/dcarpintero/transformer101)**
+
+Annotated implementation in PyTorch of the Transformer model introduced in the paper 'Attention Is All You Need'
 
 ## 👩‍💻 Our Favourite Stack
 
