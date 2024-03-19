@@ -1,6 +1,6 @@
 # 👋 Welcome to the [TuringLayer]() GitHub organization 👋
 
-Building and experimenting with Deep Learning, Transformers, and Generative AI.
+Building and Experimenting with Deep Learning, Transformers, and Generative AI.
 
 ## 🧮 Our Notebooks Collection
 
